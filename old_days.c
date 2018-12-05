@@ -1,7 +1,7 @@
 /***********************************************/
  *Practice-3 2018-12-5 by shawnadl
  *This function calculates how old days are you.
- *Example, your birth day is 5/5/2000 and current
+ *Example, your birth day is 2000/5/5 and current
  time is 2018/5/12 then:
   -calculate_year function calculates: how many days
  were there from 2001 to 2017.
